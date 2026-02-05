@@ -25,10 +25,19 @@ switch (rya) {
         
         break;
 }
+let a = 3;
+let b =10;
+if(a>=b){
+    console.log(f***ck of)
+}else{
+    console.log(thnak you)
+}
+
 
 
 
  
+
 
 
  
